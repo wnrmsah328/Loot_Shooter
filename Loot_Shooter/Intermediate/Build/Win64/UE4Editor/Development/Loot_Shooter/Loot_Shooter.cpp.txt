@@ -1,0 +1,2 @@
+D:\GameDev\UE\Unreal_Project\Loot_Shooter\Loot_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Loot_Shooter\Definitions.Loot_Shooter.h
+D:\GameDev\UE\Unreal_Project\Loot_Shooter\Loot_Shooter\Source\Loot_Shooter\Loot_Shooter.h

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GameDev\\UE\\Unreal_Project\\Loot_Shooter\\Loot_Shooter\\Source\\Loot_Shooter\\Loot_Shooter.Build.cs",
+		"D:\\GameDev\\UE\\Unreal_Project\\Loot_Shooter\\Loot_Shooter\\Source\\Loot_Shooter.Target.cs",
+		"D:\\GameDev\\UE\\Unreal_Project\\Loot_Shooter\\Loot_Shooter\\Source\\Loot_ShooterEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Loot_Shooter",
+			"Path": "D:\\GameDev\\UE\\Unreal_Project\\Loot_Shooter\\Loot_Shooter\\Source\\Loot_Shooter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Loot_ShooterEditor",
+			"Path": "D:\\GameDev\\UE\\Unreal_Project\\Loot_Shooter\\Loot_Shooter\\Source\\Loot_ShooterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

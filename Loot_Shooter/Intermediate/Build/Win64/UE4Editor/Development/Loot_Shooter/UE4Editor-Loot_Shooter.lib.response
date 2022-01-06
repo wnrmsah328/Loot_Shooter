@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Loot_Shooter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\GameDev\UE\Unreal_Project\Loot_Shooter\Loot_Shooter\Intermediate\Build\Win64\Loot_ShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\GameDev\UE\Unreal_Project\Loot_Shooter\Loot_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Loot_Shooter\Loot_Shooter.cpp.obj"
+"D:\GameDev\UE\Unreal_Project\Loot_Shooter\Loot_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Loot_Shooter\Loot_ShooterGameModeBase.cpp.obj"
+"D:\GameDev\UE\Unreal_Project\Loot_Shooter\Loot_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Loot_Shooter\Loot_Shooter.init.gen.cpp.obj"
+"D:\GameDev\UE\Unreal_Project\Loot_Shooter\Loot_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Loot_Shooter\Loot_ShooterGameModeBase.gen.cpp.obj"
+"D:\GameDev\UE\Unreal_Project\Loot_Shooter\Loot_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Loot_Shooter\Default.rc2.res"
+/OUT:"D:\GameDev\UE\Unreal_Project\Loot_Shooter\Loot_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Loot_Shooter\UE4Editor-Loot_Shooter.lib"
+/INCLUDE:IMPLEMENT_MODULE_Loot_Shooter
